@@ -1,0 +1,12 @@
+{
+    "name": "Strava AutoLiker",
+    "description": "Like all post in Strava",
+    "version": "2.0",
+    "manifest_version": 3,
+    "icons": {},
+    "action": {
+        "default_popup":"popup.html"
+    },
+    "permissions": ["scripting", "activeTab"],
+    "background":{}
+}
