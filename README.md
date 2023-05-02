@@ -3,7 +3,7 @@
 
 To install the extension use the following instructions:
 <ol>
-<li>Go to Google Chrome extensions ( It is available at the link: <strong>chrome://extensions/</strong></li>  
+<li>Go to Google Chrome extensions ( It is available at the link: <strong>chrome://extensions/ )<strong></li>  
 <li>Next you need to enable <strong>Developer mode</strong> and reload the page
 <br>
 <img src="https://i.imgur.com/GiKfDEj.png"></li>
